@@ -1,4 +1,6 @@
 ﻿<Solution>
+  <Project Path="Presentation.csproj" />
+  <Project Path="Application.csproj" />
+  <Project Path="Domain.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
-  <Project Path="Sirenix.OdinInspector.Modules.UnityMathematics.csproj" />
 </Solution>

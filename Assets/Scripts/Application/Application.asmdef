@@ -1,0 +1,24 @@
+{
+    "name": "Application",
+    "rootNamespace": "",
+    "references": [
+        "GUID:255d560de45b97b4b9df0e7458b21b10",
+        "GUID:08b38f39e2d9e594389b7a4cf4c2c338",
+        "GUID:f87f2db4f7bec46409857b7e7a6938ff",
+        "GUID:4f682e06dbb3e624faedad9cc27106cc",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:7bce08a00b4d54cd694096abadbb897e",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "R3.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

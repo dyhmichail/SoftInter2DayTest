@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "E:\\SoftInter\\2Day\\TestTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\softinter\\2day\\testtask\\assets\\presentation\\grid\\cellview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\presentation\\grid\\cellview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\softinter\\2day\\testtask\\assets\\scripts\\infrastructure\\saveloadsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\infrastructure\\saveloadsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\softinter\\2day\\testtask\\assets\\infrastructure\\di\\gameplaylifetimescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\infrastructure\\di\\gameplaylifetimescope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SoftInter\\2Day\\TestTask\\Assets\\Scripts\\Presentation\\Grid\\CellView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Presentation\\Grid\\CellView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\softinter\\2day\\testtask\\assets\\application\\constractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\application\\constractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\softinter\\2day\\testtask\\assets\\presentation\\buildingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\presentation\\buildingpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\softinter\\2day\\testtask\\assets\\domain\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\domain\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\softinter\\2day\\testtask\\assets\\domain\\grid\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\domain\\grid\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2542991B-517C-D793-B55D-A8766344C1D2}|Domain.csproj|e:\\softinter\\2day\\testtask\\assets\\scripts\\domain\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2542991B-517C-D793-B55D-A8766344C1D2}|Domain.csproj|solutionrelative:assets\\scripts\\domain\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,81 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CellView.cs",
-              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Presentation\\Grid\\CellView.cs",
-              "RelativeDocumentMoniker": "Assets\\Presentation\\Grid\\CellView.cs",
-              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Presentation\\Grid\\CellView.cs",
-              "RelativeToolTip": "Assets\\Presentation\\Grid\\CellView.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAiwG0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Building.cs",
+              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Scripts\\Domain\\Building.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Domain\\Building.cs",
+              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Scripts\\Domain\\Building.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Domain\\Building.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:28:03.823Z",
+              "WhenOpened": "2025-11-18T08:28:16.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BuildingPanel.cs",
-              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Presentation\\BuildingPanel.cs",
-              "RelativeDocumentMoniker": "Assets\\Presentation\\BuildingPanel.cs",
-              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Presentation\\BuildingPanel.cs",
-              "RelativeToolTip": "Assets\\Presentation\\BuildingPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SaveLoadSystem.cs",
+              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Scripts\\Infrastructure\\SaveLoadSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Infrastructure\\SaveLoadSystem.cs",
+              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Scripts\\Infrastructure\\SaveLoadSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Infrastructure\\SaveLoadSystem.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:43:31.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Building.cs",
-              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Domain\\Building.cs",
-              "RelativeDocumentMoniker": "Assets\\Domain\\Building.cs",
-              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Domain\\Building.cs",
-              "RelativeToolTip": "Assets\\Domain\\Building.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:40:17.899Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cell.cs",
-              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Domain\\Grid\\Cell.cs",
-              "RelativeDocumentMoniker": "Assets\\Domain\\Grid\\Cell.cs",
-              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Domain\\Grid\\Cell.cs",
-              "RelativeToolTip": "Assets\\Domain\\Grid\\Cell.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:39:30.17Z"
+              "WhenOpened": "2025-11-18T08:25:05.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameplayLifetimeScope.cs",
-              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Infrastructure\\DI\\GameplayLifetimeScope.cs",
-              "RelativeDocumentMoniker": "Assets\\Infrastructure\\DI\\GameplayLifetimeScope.cs",
-              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Infrastructure\\DI\\GameplayLifetimeScope.cs",
-              "RelativeToolTip": "Assets\\Infrastructure\\DI\\GameplayLifetimeScope.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAIAwwEkAAAAAAAAAAAAAAA==",
+              "Title": "CellView.cs",
+              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Scripts\\Presentation\\Grid\\CellView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Presentation\\Grid\\CellView.cs",
+              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Scripts\\Presentation\\Grid\\CellView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Presentation\\Grid\\CellView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:37:27.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConstractionService.cs",
-              "DocumentMoniker": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Application\\ConstractionService.cs",
-              "RelativeDocumentMoniker": "Assets\\Application\\ConstractionService.cs",
-              "ToolTip": "E:\\SoftInter\\2Day\\TestTask\\Assets\\Application\\ConstractionService.cs",
-              "RelativeToolTip": "Assets\\Application\\ConstractionService.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAD4v2oAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T09:30:38.33Z",
+              "WhenOpened": "2025-11-18T08:37:35.844Z",
               "EditorCaption": ""
             }
           ]
